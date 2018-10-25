@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: MountainLakeView, Configuration: Debug Win32 ------
+1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TessellationTerrainDemo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+1>  mountainLakeView.cpp
+1>  TessellationTerrainDemo.vcxproj -> C:\Users\User\Desktop\FinalProject01\FinalProject 2017\Debug\MountainLakeView.exe
+1>  TessellationTerrainDemo.vcxproj -> C:\Users\User\Desktop\FinalProject01\FinalProject 2017\Debug\MountainLakeView.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
